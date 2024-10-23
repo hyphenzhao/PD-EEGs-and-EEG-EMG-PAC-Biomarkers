@@ -13,11 +13,9 @@ Elevated cortical alpha/low beta-broad gamma PAC and cortico-muscular broad beta
 
 ## Pre-requirments
 ### Python Versions
-Python 3.10.15
-
-pip 23.0.1
-
-Please install requirements.txt before running code
+* Python 3.10.15
+* pip 23.0.1
+* Please install requirements.txt before running code
 
 ### Pre-processing Workflow
 Please preprocess data before using the code.
