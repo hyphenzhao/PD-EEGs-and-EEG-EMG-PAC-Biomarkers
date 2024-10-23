@@ -1,0 +1,9 @@
+mne
+numpy
+pandas
+scipy
+matplotlib
+sklearn
+mne-connectivity
+pactools
+mne-icalabel
